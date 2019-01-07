@@ -1,0 +1,19 @@
+# Editor Config https://editorconfig.org/
+root = true
+
+# Use UTF-8 charset everywhere
+[*]
+charset = utf-8
+
+# Use 4 spaces for Java Files
+[*.java]
+indent_style = space
+indent_size = 4
+
+# Use 4 spaces for Gradle Configuration
+[build.gradle]
+indent_style = space
+indent_size = 4
+
+# Note:
+# Letting VCS (Git) handle CRLF and last empty line for best cross-OS compatibility
