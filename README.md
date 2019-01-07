@@ -1,4 +1,4 @@
-Template FRC Java Project
+Template FRC Java Project [![Build Status](https://travis-ci.com/xXAndrew28Xx/2019-FRC-Template-Project.svg?branch=master)](https://travis-ci.com/xXAndrew28Xx/2019-FRC-Template-Project)
 ---
 
 A Gradle-based Java project that may be used in VS Code, IntelliJ, and Eclipse. It utilizes the [GradleRIO](https://github.com/wpilibsuite/GradleRIO) plugin which is the method of building for the FRC 2019 season (and likely beyond). This template is based on the project template provided by WPI extension in VS Code but with many changes to support more IDEs consistently.
